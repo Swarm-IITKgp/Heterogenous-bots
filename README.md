@@ -1,5 +1,5 @@
-# Heterogenous-bots
-All the work related to heterogenous bots
+# Vision-robots
+All the work related to vision bots
 
 ## Bot Architecture
 
